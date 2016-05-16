@@ -1,0 +1,60 @@
+.footer {
+  height: 200px;
+  background-color:  #ededed;
+    .customer-service,.information,.campaigns,.stores,.social {
+      display: inline-block;
+      vertical-align: top;
+      margin-top: 31px;
+      margin-right: 57px;
+      float: left;
+        h4 {
+          font-family: Arial;
+          color:  #544e4d;
+          font-size: 16px;
+          font-weight: 700;
+          letter-spacing: -0.16px;
+          line-height: 30px;
+        }
+        a {
+          text-decoration: none;
+          font-family: Arial;
+          color:  #544e4d;
+          font-size: 12px;
+          font-weight: 400;
+        }
+    }
+
+
+
+  .social {
+    h4 {
+    margin-bottom: 5px;
+  }
+    a {
+      display: inline-block;
+      color: white;
+      background: #4B4B4A;
+      line-height: 34px;
+      text-align: center;
+      font-size: 18px;
+      width: 35px;
+      height: 34px;
+      border-radius: 50%;
+      border: 1px solid #4A4A49;
+      margin-right: 8px;
+      margin-bottom: 8px;
+    }
+  }
+
+
+  .secured {
+    margin-left: 10px;
+    margin-top: 50px;
+    display: inline-block;
+    width: 107px;
+    height: 107px;
+    background: url("../images/secured.png") center center no-repeat;
+    float: right;
+  }
+
+}

@@ -1,0 +1,25 @@
+{
+  "name": "final-project",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Dmytro Baranetskyi <ckopnio@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./dist/libraries",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "font-awesome": "font-awsome#^4.5.0",
+    "jcarousel": "^0.3.4",
+    "jquery-ui": "^1.11.4"
+  }
+}
